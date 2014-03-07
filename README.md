@@ -1,4 +1,4 @@
-Codex Principia
+CODEX PRINCIPIA
 ---------------
 This is a web app built to aid in tabletop gaming.  It is not tied directly
 to any game, though it was built specifically for Dungeons and Dragons.
