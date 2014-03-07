@@ -1,8 +1,15 @@
-Codex Principia Server
-----------------------
-This is the server component of the Codex Principia.  It provides the 
-REST services needed to allow the tabletop RPG game webapp to run.  The 
-server is written in nodejs and stores data in mongodb.
+Codex Principia
+---------------
+This is a web app built to aid in tabletop gaming.  It is not tied directly
+to any game, though it was built specifically for Dungeons and Dragons.
+With little or no modication, it can work with any game.  This version is
+meant to run in the browser.
+
+CURRENT FEATURES
+----------------
+- Displays character sheets for characters in the database.  It also allows
+for the updating and deletion of said characters as well as the creation of
+new ones.
 
 LICENSE
 -------
