@@ -6,7 +6,7 @@ var express = require('express'),
 	character = require('./routes/characters');
 
 // Configuration values.
-var port = 3000,
+var port = 4200,
 	dbServer = 'localhost',
 	dbPort = 27017,
 	dbName = 'codex-principia',
